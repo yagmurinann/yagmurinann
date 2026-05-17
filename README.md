@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Yağmur İnan!
 
-<!--
-**yagmurinann/yagmurinann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ankara Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yapay zeka, derin öğrenme, görüntü işleme ve CUDA mimarisi ile yüksek başarımlı hesaplama (HPC) alanlarına odaklanıyorum. Hem akademik projeler geliştiriyor hem de geliştirici ekosistemini büyütmek için topluluk öncülüğü yapıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Hakkımda Kısa Kısa
+
+* 🎓 **Eğitim:** Ankara Üniversitesi — Bilgisayar Mühendisliği
+* 👥 **Topluluk:** Yazılım Geliştiricileri Topluluğu (**HSD Ankara**) Lideri
+* 🔬 **Odak Alanlarım:** Derin Öğrenme, Paralel Programlama (CUDA), Görüntü İşleme ve AI Agent Sistemleri
+* 🎖️ **Eğitim & Programlar:** Savunma Sanayii 401 Eğitim Programı Mezunu/Katılımcısı
+
+---
+
+## 🛠️ Yetkinlikler & Teknolojiler
+
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Programlama Dilleri** | Python, C++, C, SQL |
+| **Yapay Zeka & HPC** | PyTorch, TensorFlow, OpenCV, CUDA |
+| **Araçlar & Sistemler** | Git, GitHub, Linux, Docker |
+
+---
+
+## 📌 Öne Çıkan Projeler & Çalışmalar
+
+* 🧬 **Gen-DeepVaryant:** Teknofest için geliştirdiğimiz, hibrit derin öğrenme (CNN + LSTM) mimarisine dayalı patojenite tahmin sistemi.
+* 🤖 **Topluluk & Workshoplar:** HSD Ankara bünyesinde hackathonlar, "Mento Talks" serileri ve teknik AI Agent atölyelerinin organizasyonu ile liderliği.
+* 💻 **HPC & CUDA Çalışmaları:** GPU üzerinde bellek yönetimi, matris işlemleri optimizasyonu ve paralel programlama algoritmaları.
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yagmurinann&show_icons=true&theme=visual_studio_dark" alt="Yağmur's GitHub Stats" />
+</p>
+
+---
+
+## 📫 Benimle İletişime Geçin
+
+* 💼 [LinkedIn'de Bağlantı Kurun](https://www.linkedin.com/in/yagmurinann/)
+* 📧 [E-posta Gönderin](mailto:yagmurinan.eng@gmail.com) _(E-posta adresinizi buraya güncelleyebilirsiniz)_
